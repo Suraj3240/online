@@ -29,6 +29,7 @@
 #include <memory>
 #include <mutex>
 #include <thread>
+#include <climits>
 
 #include <common/StateEnum.hpp>
 #include "Log.hpp"
